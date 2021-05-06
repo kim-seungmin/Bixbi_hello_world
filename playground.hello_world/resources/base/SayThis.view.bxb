@@ -1,0 +1,16 @@
+result-view{
+  match:SayThis(this)
+
+  render{
+    layout{
+        section{
+          content{
+            image{
+              url(images/bimo25.PNG)
+              aspect-ratio(One-One)
+            }
+          }
+        }
+    }
+  }
+}

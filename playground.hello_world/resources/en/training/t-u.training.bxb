@@ -1,0 +1,4 @@
+train (t-uuk3w847y7hj5d7zjr2q18lbo) {
+  utterance ("[g:SaySomething] say (hello world)[v:WhatUserSaid]")
+  last-modified (1620304190632)
+}
